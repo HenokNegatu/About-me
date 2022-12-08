@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Henok 
-- 👀 I’m interested in fullstack web development, machine learning, cyber security
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web development, machine learning, cyber security
 - 📫 you can contact me on telegram @AnonCFG
 
 <!---
